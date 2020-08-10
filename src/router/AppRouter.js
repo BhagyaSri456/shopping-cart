@@ -7,7 +7,7 @@ import Cart from '../components/Cart';
 import NotFoundPage from '../components/NotFoundPage';
 
 const AppRouter = () => (
-    <BrowserRouter>
+    <BrowserRouter basename="/shopping-cart">
         <div>
             <Header></Header>
             <Switch>
