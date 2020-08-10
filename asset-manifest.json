@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.501656e4.chunk.css",
+    "main.js": "/shopping-cart/static/js/main.39cda50a.chunk.js",
+    "main.js.map": "/shopping-cart/static/js/main.39cda50a.chunk.js.map",
+    "runtime-main.js": "/shopping-cart/static/js/runtime-main.6e52efc5.js",
+    "runtime-main.js.map": "/shopping-cart/static/js/runtime-main.6e52efc5.js.map",
+    "static/js/2.08b6d77c.chunk.js": "/shopping-cart/static/js/2.08b6d77c.chunk.js",
+    "static/js/2.08b6d77c.chunk.js.map": "/shopping-cart/static/js/2.08b6d77c.chunk.js.map",
+    "index.html": "/shopping-cart/index.html",
+    "precache-manifest.57feb7b9594e5153a2a82628035ade78.js": "/shopping-cart/precache-manifest.57feb7b9594e5153a2a82628035ade78.js",
+    "service-worker.js": "/shopping-cart/service-worker.js",
+    "static/css/main.501656e4.chunk.css.map": "/shopping-cart/static/css/main.501656e4.chunk.css.map",
+    "static/js/2.08b6d77c.chunk.js.LICENSE.txt": "/shopping-cart/static/js/2.08b6d77c.chunk.js.LICENSE.txt",
+    "static/media/Earphones.jpg": "/shopping-cart/static/media/Earphones.ed9aba71.jpg",
+    "static/media/ac.jpg": "/shopping-cart/static/media/ac.bfa591eb.jpg",
+    "static/media/hairdryer.jpg": "/shopping-cart/static/media/hairdryer.4b38404e.jpg",
+    "static/media/mixer.png": "/shopping-cart/static/media/mixer.68de987c.png",
+    "static/media/room-heater.jpeg": "/shopping-cart/static/media/room-heater.f215d850.jpeg",
+    "static/media/smart-watch.jpg": "/shopping-cart/static/media/smart-watch.ab7c233b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e52efc5.js",
+    "static/js/2.08b6d77c.chunk.js",
+    "static/css/main.501656e4.chunk.css",
+    "static/js/main.39cda50a.chunk.js"
+  ]
+}
