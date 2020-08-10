@@ -1,0 +1,25 @@
+.items-wrapper {
+    display  : flex;
+    flex-wrap: wrap;
+
+    .shopping-item {
+        flex      : 0 0 25%;
+        max-width : 25%;
+        padding   : 0.5rem;
+        text-align: center;
+
+        &:hover {
+            box-shadow   : 0 3px 16px 0 rgba(0, 0, 0, .11);
+            border-radius: 0.5rem;
+        }
+
+        .item-image {
+            width : 180px;
+            height: 150px;
+        }
+
+        .item-cost {
+            font-weight: bold;
+        }
+    }
+}

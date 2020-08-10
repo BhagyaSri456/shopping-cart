@@ -1,0 +1,19 @@
+.header {
+    background   : $off-black;
+    color        : $off-white;
+    margin-bottom: $m-size;
+    padding      : $m-size 0;
+    text-align   : center;
+
+    h1 {
+        padding: 0;
+        margin : 0.4rem 0;
+    }
+
+    .link {
+        color          : white;
+        font-weight    : 600;
+        text-decoration: none;
+        font-size      : large;
+    }
+}

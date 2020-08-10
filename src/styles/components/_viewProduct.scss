@@ -1,0 +1,26 @@
+.view-product {
+    .flex-wrapper {
+        display: flex;
+    }
+
+    img {
+        width : 300px;
+        height: 300px;
+    }
+
+    .details-wrapper {
+        padding: 1.5rem 0;
+    }
+
+    .btnAdd {
+        padding      : 18px 8px;
+        border-radius: 2px;
+        box-shadow   : 0 1px 2px 0 rgba(0, 0, 0, .2);
+        width        : 300px;
+        border       : none;
+        float        : left;
+        background   : $purple;
+        color        : #fff;
+        font-weight  : bold;
+    }
+}
