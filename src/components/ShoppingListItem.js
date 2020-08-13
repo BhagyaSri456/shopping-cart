@@ -8,7 +8,7 @@ export default class ShoppingListItem extends Component {
         return (
             <div className="shopping-item">
                 <Link to={`/item/${id}`}>
-                    <img src={image} className="item-image"></img>
+                    <img src={require('../images/' + image)} alt={description} className="item-image"></img>
                 </Link>
                 <div>
                     <div className="item-description">{description}</div>

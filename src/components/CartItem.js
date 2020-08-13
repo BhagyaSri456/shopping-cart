@@ -36,7 +36,7 @@ class CartItem extends Component {
         return (
             <>
                 <div className="item-details">
-                    <img src={image} className="item-image" />
+                    <img src={require('../images/' + image)} alt={description} className="item-image" />
                     <div className="text-center">
                         <button
                             disabled={(quantity > 1) ? false : true}

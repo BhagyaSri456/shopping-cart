@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import ShoppingListItem from './ShoppingListItem';
-import products from '../products-data';
+import products from '../productsData.json';
 
 
 export default class ShoppingList extends Component {
